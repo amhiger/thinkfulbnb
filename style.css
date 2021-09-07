@@ -130,8 +130,8 @@ footer p {
   padding: 20px;
 }
 /* -------  Media Query ------- */
-/* Once screen is larger than 480px, apply these styles */
-@media all and (min-width: 480px) {
+/* Once screen is larger than 600px, apply these styles */
+@media all and (min-width: 600px) {
   header {
     display: flex;
     justify-content: space-between;
